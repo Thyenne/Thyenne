@@ -43,6 +43,14 @@ ________________________________________________________________________________
         
 
           
+_________________________________________________________________________________________________________________________________________________________________________________   
+### Atualmente estou estudando e dando bastante foco na seguinte linguagem e framework.
+
+<div align = center>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50"/> 
+</div>
+
 _________________________________________________________________________________________________________________________________________________________________________________          
 
 
