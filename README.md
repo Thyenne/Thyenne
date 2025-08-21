@@ -5,9 +5,9 @@
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
-
-<p> - 🖥 Formada em bacharel em Ciência da Computação na turma de 2022 da Universidade Carioca (UNICARIOCA), focada em programação backend, sente-se e vea um pouco do meu trabalho e do que eu estou estudando!</p>
-<p> - 😊 Essa aqui sou eu! tenho 27 anos e sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego </>
+<div><div><p> - 🖥 Formada em bacharel em Ciência da Computação na turma de 2022 da Universidade Carioca (UNICARIOCA), focada em programação backend, sente-se e vea um pouco do meu trabalho e do que eu estou estudando!</p>
+<p> - 😊 Essa aqui sou eu! tenho 27 anos e sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego </p> </div>
+![Thyenne](ThyHey)</div>
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
@@ -19,11 +19,19 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
->  Aqui estão algumas ferramentas, framewors e linguagens de programação que estou em ==constante evolução!!==
+>  Aqui estão algumas ferramentas, framewors e linguagens de programação que estou em **constante evolução!!**
 
 
- <div>
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />                    
  </div>       
         
 
