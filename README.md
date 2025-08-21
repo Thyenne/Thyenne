@@ -4,4 +4,4 @@
 
 ![Thyenne](/img/Thyenne.jpg)
 
-### Essa sou eu! tenho 27 anos e sou junir em questão de senioridade na vida de programadora. atualmente busco emprego
+### Essa sou eu! tenho 27 anos e sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego
