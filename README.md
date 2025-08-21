@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
         
         
-           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+           <img align="right" alt="Coding" width="400" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
           
           
           
