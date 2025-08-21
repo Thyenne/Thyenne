@@ -13,7 +13,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact)
-[![Thyenne stats](https://github-readme-stats.vercel.app/api/wakatime?thyenne=ffflabs)](https://github.com/Thyenne/github-readme-stats)
+[![Thyenne stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/hyenne/github-readme-stats)
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Aqui estão algumas ferramentas, framewors e linguagens de programação que domino!
