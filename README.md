@@ -13,6 +13,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact)
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Aqui estão algumas ferramentas, framewors e linguagens de programação que domino!
