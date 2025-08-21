@@ -13,7 +13,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact)
-[![Thyenne stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/hyenne/github-readme-stats)
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 ### Aqui estão algumas ferramentas, framewors e linguagens de programação que domino!
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
         
         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"/>
+           https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
           
           
           
