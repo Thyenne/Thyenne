@@ -6,17 +6,22 @@
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-<p> - 🖥 Formada em bacharel em Ciência da Computação na turma de 2022 da Universidade Carioca (UNICARIOCA), focada em programação backend, sente-se e vea um pouco do meu trabalho e do que eu estou estudando!</p>
-<p> - 😊 Essa aqui sou eu! tenho 27 anos e sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego </p>
+<div>
+<p> - 🖥 Formada em bacharel em Ciência da Computação na turma de 2022 da Universidade Carioca (UNICARIOCA), focada em programação backend, sente-se e veJa um pouco do meu trabalho e do que eu estou estudando!</p>
+<p> - 😊 Essa aqui sou eu! tenho 27 anos </p>
+<p> - sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego.</p>
 
+<img src=img/ThyHey.png/>
+
+</div>
 
 ![Thyenne](img/ThyHey.png)
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
 <div>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=thyenne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" width=100% src="https://github-readme-stats.vercel.app/api?username=thyenne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 _________________________________________________________________________________________________________________________________________________________________________________
