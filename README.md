@@ -6,23 +6,17 @@
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-<div>
-    <div>
-        <p> - 🖥 Formada em bacharel em Ciência da Computação na turma de 2022 da Universidade Carioca (UNICARIOCA), focada em programação backend, sente-se e veJa um pouco do meu trabalho e do que eu estou estudando!</p>
-        <p> - 😊 Essa aqui sou eu! tenho 27 anos </p>
-        <p> - sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego.</p>
-    </div>
-    <div>
-    <img width="100" height="100"src=img/ThyHey.png/>
-    <img width="100" height="100"src=img/thyLuv.png/>
-    <img width="100" height="100"src=img/ThyHey.png/>
-    <img width="100" height="100"src=img/thyLuv.png/>
-    <img width="100" height="100"src=img/ThyHey.png/>
-    <img width="100" height="100"src=img/thyLuv.png/>
-    <img width="100" height="100"src=img/ThyHey.png/>
-    </div>
-</div>
 
+<div>
+    <img width="100" height="100"src=img/ThyHey.png/>
+    <img width="100" height="100"src=img/thyLuv.png/>
+    <img width="100" height="100"src=img/ThyHey.png/>
+    <img width="100" height="100"src=img/thyLuv.png/>
+    <img width="100" height="100"src=img/ThyHey.png/>
+    <img width="100" height="100"src=img/thyLuv.png/>
+    <img width="100" height="100"src=img/ThyHey.png/>
+    <img width="100" height="100"src=img/thyLuv.png/>
+</div>
 
 
 _________________________________________________________________________________________________________________________________________________________________________________
