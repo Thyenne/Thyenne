@@ -13,7 +13,7 @@ ________________________________________________________________________________
         <p> - sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego.</p>
     </div>
     <div>
-    <img width="200" height="200"src=img/ThyHey.png/>
+    <img width="100" height="100"src=img/ThyHey.png/>
     </div>
 </div>
 
@@ -22,8 +22,8 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 
 <div>
-<img loading="lazy" height="180em" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" width=100% src="https://github-readme-stats.vercel.app/api?username=thyenne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyenne&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em"  src="https://github-readme-stats.vercel.app/api?username=thyenne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 _________________________________________________________________________________________________________________________________________________________________________________
