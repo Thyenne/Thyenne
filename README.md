@@ -21,7 +21,7 @@ ________________________________________________________________________________
 
         
         
-           https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
           
           
           
