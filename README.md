@@ -13,7 +13,7 @@ ________________________________________________________________________________
         <p> - sou júnior em questão de senioridade na vida de programadora. Atualmente busco emprego.</p>
     </div>
     <div>
-    <img width="300" height="300"src=img/ThyHey.png/>
+    <img width="200" height="200"src=img/ThyHey.png/>
     </div>
 </div>
 
