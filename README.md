@@ -4,7 +4,7 @@
 ![Thyenneheader](img/header.png)
 
 
-<p> 💜 Pode me chamar Thyenne, ou Annie</p>
+###### 💜 Pode me chamar Thyenne, ou Annie
 <p> 👧🏾 Pronomes: Ela/Dela </p>
 <p> 👩🏾‍🎓 Graduada em Ciência da Computação | Grande área: Ciência Exatas e da terra | Área: Ciência da Computação | Subarea: Programação</p>
 <p> 🚶🏾‍♀️ Atualmente estou na jornada por um emprego na senioridade de Júnior Back-end.</p>
