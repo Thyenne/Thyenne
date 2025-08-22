@@ -8,7 +8,7 @@
 ##### 👧🏾 Pronomes: Ela/Dela
 ##### 👩🏾‍🎓 Graduada em Ciência da Computação | Grande área: Ciência Exatas e da terra | Área: Ciência da Computação | Subarea: Programação
 ##### 🚶🏾‍♀️ Atualmente estou na jornada por um emprego na senioridade de Júnior Back-end.
-##### 💠 Algumas curiosidades sobre mim 
+##### 💠 Algumas curiosidades sobre mim:
 1. ***AMO*** de Jogos de paixão, sonho em trabalhar em uma empresa de jogos, seja AAA ou indie seja como programadora, como criadora de conteúdo ou como player profissional;
 2. Meu jogo Favorito é valorant, seguido de Once Human e Lost Ark;
 2. Amo programação e computadores, tecnologioa no geral me fascina e eu estou sempre de olho nas novidades;
