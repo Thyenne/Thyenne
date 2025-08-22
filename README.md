@@ -4,17 +4,18 @@
 ![Thyenneheader](img/header.png)
 
 
-##### 💜 Pode me chamar de Annie 💜
-##### 👧🏾 Pronomes: Ela/Dela
-##### 👩🏾‍🎓 Graduada em Ciência da Computação | Grande área: Ciência Exatas e da terra | Área: Ciência da Computação | Subarea: Programação
-##### 🚶🏾‍♀️ Atualmente estou na jornada por um emprego na senioridade de Júnior Back-end.
-##### 💠 Algumas curiosidades sobre mim:
-1. ***AMO*** de Jogos de paixão, sonho em trabalhar em uma empresa de jogos, seja AAA ou indie seja como programadora, como criadora de conteúdo ou como player profissional;
-2. Meu jogo Favorito é valorant, seguido de Once Human e Lost Ark;
-2. Amo programação e computadores, tecnologioa no geral me fascina e eu estou sempre de olho nas novidades;
-3. Sou mãe de três pets 😻😻😻 3 Lindos gatinhos, o Bichano, o Algodão e a Margô;
-4. Como meus pais tambem gostam de bixinhos, temos em casa, galinhas e patos, 6 cachorros (Pelé, Madona, Faisca, Sansão, e a menina) e uma ttartaruga que chamamos carinhosamente de Tuga.
-5. Gosto muito de colocar a mão na massa, aprender na raça, mesmo que isso me de umas crises existenciais no meio do processo, faz parte do aprendizado, com isso acabei descobrindo que tinha capacidade para edição de vídeo, de fotografia, e também lives streams pelo meu jeito extrovertido de ser. 
+#### 💜 Pode me chamar de Annie 💜
+#### 👧🏾 Pronomes: Ela/Dela
+#### 👩🏾‍🎓 Graduada em Ciência da Computação | Grande área: Ciência Exatas e da terra | Área: Ciência da Computação | Subarea: Programação
+#### 🚶🏾‍♀️ Atualmente estou na jornada por um emprego na senioridade de Júnior Back-end.
+#### 💠 Algumas curiosidades sobre mim:
+1. Amo programação e computadores, tecnologia no geral me fascinam e eu estou sempre de olho nas novidades;
+2. Quando eu tinha por volta de 8, 9 anos, juntamente com meu pai, que tambem é um amante da tecnologia, montando cerca de 10 computadores para uma empresa local, tenho certeza que meu interesse pela tecnologia começou bem neste momento. 
+3. ***AMO*** de Jogos de paixão como hobbie mas, sonho em trabalhar em uma empresa de jogos, seja AAA ou indie seja como programadora, como criadora de conteúdo ou como player profissional;
+4. Meu jogo Favorito é Valorant, seguido de Once Human e Lost Ark;
+5. Sou mãe de três pets 😻😻😻! 3 Lindos gatinhos, o Bichano, o Algodão e a Margô;
+6. Como meus pais tambem gostam de bixinhos, temos em casa, galinhas e patos, 6 cachorros (Pelé, Madonna, Faisca, Sansão, e a menina) e uma tartaruga que chamo carinhosamente de Tuga.
+7. Gosto muito de colocar a mão na massa, aprender na raça, mesmo que isso me de umas crises existenciais no meio do processo, faz parte do aprendizado, com isso acabei descobrindo que tinha capacidade para edição de vídeo, de fotografia, e também lives streams pelo meu jeito extrovertido de ser. 
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
@@ -40,7 +41,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________________________________________________
 
-> ### Aqui estão algumas ferramentas, framewors e linguagens de programação que estou em **constante evolução!!**
+### Aqui estão algumas ferramentas, framewors e linguagens de programação que estou em **constante evolução!!**
 
 
 <div align = center>
