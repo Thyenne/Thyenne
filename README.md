@@ -4,6 +4,19 @@
 ![Thyenneheader](img/header.png)
 
 
+<p> 💜 Pode me chamar Thyenne, ou Annie</p>
+<p> 👧🏾 Pronomes: Ela/Dela </p>
+<p> 👩🏾‍🎓 Graduada em Ciência da Computação | Grande área: Ciência Exatas e da terra | Área: Ciência da Computação | Subarea: Programação</p>
+<p> 🚶🏾‍♀️ Atualmente estou na jornada por um emprego na senioridade de Júnior Back-end.</p>
+<p> 💠 Algumas curiosidades sobre mim </p>
+
+1. ***AMO*** de Jogos de paixão, sonho em trabalhar em uma empresa de jogos, seja AAA ou indie seja como programadora, como criadora de conteúdo ou como player profissional;
+2. Meu jogo Favorito é valorant, seguido de Once Human e Lost Ark;
+2. Amo programação e computadores, tecnologioa no geral me fascina e eu estou sempre de olho nas novidades;
+3. Sou mãe de três pets 😻😻😻 3 Lindos gatinhos, o Bichano, o Algodão e a Margô;
+4. Como meus pais tambem gostam de bixinhos, temos em casa, galinhas e patos, 6 cachorros (Pelé, Madona, Faisca, Sansão, e a menina) e uma ttartaruga que chamamos carinhosamente de Tuga.
+5. Gosto muito de colocar a mão na massa, aprender na raça, mesmo que isso me de umas crises existenciais no meio do processo, faz parte do aprendizado, com isso acabei descobrindo que tinha capacidade para edição de vídeo, de fotografia, e também lives streams pelo meu jeito extrovertido de ser. 
+
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
@@ -54,7 +67,6 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________          
 
 
-### Me contate através da minhas redes sociais.
 <div align = center>
 <a href="https://www.youtube.com/@Thyennex" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/Thyennex" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
